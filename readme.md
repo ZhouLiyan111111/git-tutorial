@@ -7,7 +7,7 @@
 
 ##二级标题
 [百度](http://www.baidu.com)
-![头像](http://127.0.0.1/C:/Users/zhouliyan/Pictures/Screenshots/matlab/boy.jpg)
+![头像](file:///C:/Users/zhouliyan/Pictures/Screenshots/matlab/boy.bmp)
 
 ###三级标题
 ---
